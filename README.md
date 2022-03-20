@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mafetri
 - 📚 I'm currently studying Computer Science at UNCo (Universidad Nacional del Comahue)
 - 👀 I’m interested in everything that can make our lives easier and more optimized
-- 🌱 I’m currently learning Concurrent Programming and MIPS Assembly.
+- 🌱 I’m currently learning Operating Sistems (C) and Programing Languages (Pascal, Haskell and Prolog).
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mafetri&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&text_color=daf7dc&title_color=ffffff&icon_color=bb2acf)
 
