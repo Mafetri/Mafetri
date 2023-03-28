@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mafetri&langs_count=6&layout=compact&hide_border=true&theme=tokyonight&text_color=daf7dc&title_color=ffffff&icon_color=bb2acf)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Mafetri&theme=radical&hide_border=false)
+![Anurag's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=Mafetri&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&text_color=daf7dc&title_color=ffffff&icon_color=bb2acf)
 <!---
 Mafetri/Mafetri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
