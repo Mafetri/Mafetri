@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Mafetri
 - 📚 I'm currently studying Computer Science at UNCo (Universidad Nacional del Comahue)
 - 👀 I’m interested in everything that can make our lives easier and more optimized
-- 🌱 I’m currently studying Embedded Systems(C), Parallel Systems(C) and on my own MERN apps (MySQL, ExpressJS, React, Zustand, NodeJS).
+- 🌱 I’m currently studying Distributed Systems(C, Java), Declarative Languages(Prolog, Scheme), Data Bases(RA, SQL) and on my own MERN apps (MySQL, ExpressJS, React, Zustand, NodeJS).
 
 ## Github Stats:
 
