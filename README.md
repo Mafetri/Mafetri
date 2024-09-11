@@ -3,7 +3,7 @@
 - 📚 I'm currently studying Computer Science at UNCo (Universidad Nacional del Comahue)
 - 👀 I’m interested in everything that can make our lives easier and more optimized
 - 📕 I’m currently studying Algorithm Analysis, DB Management and AI
-- 🏢 I'm currently working in Doppler Solutions as IT Manager and Full-Stack Developer (Typescript, Python, MongoDB, React, NestJS, Docker, Nginx, Wireguard)
+- 🏢 I'm currently working in Doppler Solutions as Full-Stack Developer (Typescript, Python, MongoDB, React, NestJS, Docker, Nginx, Wireguard)
 
 ## Github Stats:
 
